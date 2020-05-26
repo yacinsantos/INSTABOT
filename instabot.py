@@ -253,7 +253,7 @@ class InstagramBot:
     
 if __name__ == "__main__":
     
-    bot = InstagramBot('worldwar3.3warworld@gmail.com', 'worldwar4XDD')
+    bot = InstagramBot('Username', 'Password')
     sleep(30)
     
     #follow users followers
